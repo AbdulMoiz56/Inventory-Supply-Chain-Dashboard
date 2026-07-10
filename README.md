@@ -36,7 +36,7 @@ This project analyzes **1,200+ orders (2022–2024)** to surface key supply chai
 ## ✨ Features
 
 - Cross-filtering slicers for Region, Category, Supplier, and Warehouse
-- Custom DAX measures (`SUM`, `DIVIDE`) for Warehouse Utilization, Day Sales of Inventory, and Inventory Turnover Ratio — see [DAX-Measures.md](DAX-Measures.md)
+- Custom DAX measures (`SUM`, `DIVIDE`) for Warehouse Utilization, Day Sales of Inventory, and Inventory Turnover Ratio — see [DAX-Measures.md](DAX-measures.md)
 - Drill-down analysis on 3 years of transactional data
 - Visual breakdown of transportation cost, backorders, and inventory levels by region and category
 
