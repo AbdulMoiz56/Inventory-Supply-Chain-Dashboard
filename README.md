@@ -77,5 +77,7 @@ This project analyzes **1,200+ orders (2022–2024)** to surface key supply chai
 
 ## 👤 Author
 
-**Abdul Moiz** — Data Analyst
-[GitHub](https://github.com/AbdulMoiz56) · [LinkedIn](https://linkedin.com/in/amabdulmoiz)
+**Abdul Moiz**
+Data Analyst | Power BI • SQL • Python
+📧 moiz13072004@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/amabdulmoiz) · [GitHub](https://github.com/AbdulMoiz56)
