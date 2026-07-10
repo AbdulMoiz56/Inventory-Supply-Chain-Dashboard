@@ -26,16 +26,19 @@ This project analyzes **1,200+ orders (2022–2024)** to surface key supply chai
 | ⚠️ Backorder Rate | 9.7% |
 | ⏱️ Avg Lead Time | 15.7 days |
 | 🚚 Avg Transportation Cost | $7,700+ |
+| 🏭 Warehouse Utilization | 34.08% |
+| 📦 Day Sales of Inventory | 15.56 days |
+| 🔄 Inventory Turnover Ratio | 23.47 |
 | 🌍 Regions Covered | 4 |
-| 🏭 Warehouses | 3 |
+| 🏢 Warehouses | 3 |
 | 🤝 Suppliers | 4 |
 
 ## ✨ Features
 
 - Cross-filtering slicers for Region, Category, Supplier, and Warehouse
-- DAX measures (`SUM`, `DIVIDE`) for order accuracy %, backorder %, and average lead time
+- Custom DAX measures (`SUM`, `DIVIDE`) for Warehouse Utilization, Day Sales of Inventory, and Inventory Turnover Ratio — see [DAX-Measures.md](DAX-Measures.md)
 - Drill-down analysis on 3 years of transactional data
-- Visual breakdown of transportation cost by region and supplier to flag optimization opportunities
+- Visual breakdown of transportation cost, backorders, and inventory levels by region and category
 
 ## 🗂️ Dataset
 
